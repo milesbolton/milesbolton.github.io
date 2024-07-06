@@ -14,11 +14,12 @@ The data sets I looked through were 2024 Mets games, 2024 MLB attendance by team
 I used Pandas to look through and clean up my data. Then, I used Datawrapper to put together my charts, highlight specific ranges and sort my data how I wanted to.
 
 ### Overview of my data analysis process
-Overview of the data analysis process
+See "Description of my findings" and "Summary of my data collection process" above for details on how I analyzed my data.
 
 ### Skills and approaches I used, where I grew most during the project
 This project helped me become more comfortable with working with data sets in Pandas. I became more familiar with using the internet and Stack Overflow to find the right commands for what I wanted to do, and then figuring out how to use these in my own notebook.
 One specific example of this was when I wanted to combine two columns in my 2024 Mets attendance by game data. I wanted to combine the 'date' and 'opponent' columns into one, so I could represent each specific game in one column.
 
 ### Things I tried or wanted to do, but did not have the skills or time to
-A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
+This is my first ever data analysis project using Pandas, so I'm pretty happy with what I was able to accomplish. I would have loved to dive into what, other than winning more games, the Mets could do to boost attendance since it's commonly said among local baseball fans that Citi Field has a much better game day experience than Yankee Stadium. 
+If the project had a later due date, I would like to see if the summer tourist season influenced attendance at all.
