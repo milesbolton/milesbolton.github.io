@@ -1,6 +1,7 @@
 # Analyzing New York Mets' attendance
 ### What I aimed to accomplish
 I wanted to find out why the New York Mets have seen a <a href="https://milesbolton.github.io/lede-project-1/mets-2024-attendance-fans.html">sizable drop in attendance</a> this season — the most of any MLB team. This issue was widely covered by local media outlets early in the season, and as of June 30, 2024, the Mets are still averaging over 6,000 fans less at home games this season compared to 2023 games.
+I also went to the Mets' June 28 game against the Astros to take pictures and get information I needed to describe the scene of the game.
 
 ### Description of my findings
 I did confirm that the Mets' league-leading attendance drop moved then from ninth in league attendance in 2023 to 19th in 2024.
