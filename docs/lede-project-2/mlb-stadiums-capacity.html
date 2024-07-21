@@ -132,9 +132,6 @@
       When the Argonauts played, they rotated so that they ran parallel to each other, allowing a rectangular football field
       to run down the middle. The upper deck was built in a round shape, forming to the outer shape of the building and providing
       a view of both sports that didn't make sense for either — though not terrible.</p>
-    <p>Multi-purpose stadiums defined sporting venues from the 1960s to the 1990s. They made sense economically: one stadium,
-      could be home to multiple teams, regardless of the shape of the field. These stadiums were large, most fully enclosed with
-      seats, giving owners room to sell more tickets.</p>
     <p>Multi-purpose stadiums were popular from the 1960s to the 1990s. They made sense economically: one stadium,
       could be home to multiple teams, regardless of the shape of the field. These venues were large, most fully enclosed with
       seats, giving owners room to sell more tickets.</p>
@@ -142,19 +139,19 @@
       build around a baseball field and open outfields. This shift lowered capacity, as football stadiums generally have more seats. 
       In the following decade, more multi-purpose facilities closed, giving way for ballparks and further decreasing seating 
       capacity across MLB.</p>
+
+      <div class="flourish-embed flourish-pictogram" data-src="visualisation/18786100"><script 
+        src="https://public.flourish.studio/resources/embed.js"></script></div><br>
+
     <p>The average capacity of an MLB stadium in 1994 was nearly 52,000. That number has decreased incrementally over the 
       past 30 years. In 2024, the average capacity has dropped to under 42,000 — a decrease of around 20 percent.</p>
-
-    <div class="flourish-embed flourish-pictogram" data-src="visualisation/18786100"><script 
-      src="https://public.flourish.studio/resources/embed.js"></script></div>
-
     <p>Of the stadiums that have had their seating capacity slashed during this time, the Blue Jays have removed the most amount
       of seats in an effort to transform Rogers Centre into a baseball-specific venue — Tropicana Field, the home of the Tampa Bay Rays, 
       officially has the largest capacity decrease, but this is due to the Rays closing their upper deck and covering seats with tarps, 
       artificially reducing capacity.</p>
     <p>After offseason renovations between the 2022 and 2024 seasons, Rogers Centre's capacity has dropped from over 50,000 to just over
-      39,000 — adapting to a new generation of fans and stadium trends. The following images show how the building has changed, and how
-       other venues across baseball have made similar changes.</p>  
+      39,000 — adapting to a new generation of fans and stadium trends. The following images show how the building has changed, and 
+      how other venues across baseball have made similar changes.</p>  
     <!-- <p>You can change the fonts by using <a href="https://fonts.google.com/">Google Fonts</a> and some CSS. Right now
       we're using Lora for headlines and Georgia for body copy.</a></p>
     <p>You will need <code><a href="scrolly-styles.css">scrolly-styles.css</a></code> for the page to work for you.</p>
@@ -169,24 +166,31 @@
     <div class="steps-container">
       <div class="step" id="step1">
         <div>
+          
           <p>This is what Rogers Centre looked like until the end of the 2022 season. Some of the lower bowl seats, still in 
             their multi-purpose configuration, do not face the action.</p>
           <p>The Blue Jays have had trouble selling upper bowl tickets. The upper deck outfield seats, as shown in the photo,
             were sparsely populated during most games.</p>
+
         </div>
       </div>
       <div class="step" id="step2">
-        <p>This was Rogers Centre in 2023, after the first major offseason renovation to repurpose 
+        
+        <div class="flourish-embed flourish-chart" data-src="visualisation/18798450"><script 
+          src="https://public.flourish.studio/resources/embed.js"></script></div>
+        <!-- <p>This was Rogers Centre in 2023, after the first major offseason renovation to repurpose 
           seating. Most of the old outfield seats were converted into bars and standing room areas allowing 
-          fans to congregate and watch games in a more casual setting.</p>
+          fans to congregate and watch games in a more casual setting.</p> -->
       </div>
       <div class="step" id="step3">
         <p>A similar renovation is taking place at Progressive Field in Cleveland, home of the Guardians. This is what it looked
           like before 2015. It has upper deck seating in right field, like Rogers Centre used to.</p>
       </div>
       <div class="step" id="step4">
-        <p>This is Progressive Field after the 2015 renovations. Notice how the upper deck seating on the right side has been
-          converted into boxes.</p>
+        <div class="flourish-embed flourish-chart" data-src="visualisation/18798515"><script 
+          src="https://public.flourish.studio/resources/embed.js"></script></div>
+        <!-- <p>This is Progressive Field after the 2015 renovations. Notice how the upper deck seating on the right side has been
+          converted into boxes.</p> -->
       </div>
       <div class="step" id="step5">
         <p>Other teams have made similar renovations to their stadiums. Coors Field in Denver, shown here, converted most of its 
@@ -199,8 +203,10 @@
     <p></p>
     <p></p>
 
-    <div class="flourish-embed flourish-chart" data-src="visualisation/18798450"><script 
-      src="https://public.flourish.studio/resources/embed.js"></script></div>
+    <div class="flourish-embed flourish-chart" data-src="visualisation/18804840"><script 
+      src="https://public.flourish.studio/resources/embed.js"></script></div><br>
+    <!-- <div class="flourish-embed flourish-chart" data-src="visualisation/18798450"><script 
+      src="https://public.flourish.studio/resources/embed.js"></script></div> -->
 
     <p></p>
     <p></p>
@@ -257,7 +263,7 @@
           parent: document.querySelector("#scrolly-images"),
           step: ".step",
           offset: 0.6,
-          debug: true,
+          debug: false,
         })
         .onStepEnter(function ({ element, index, direction }) {
           const event = new CustomEvent("stepin", { detail: { direction: direction } })
