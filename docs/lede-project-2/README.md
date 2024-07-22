@@ -16,7 +16,7 @@ I scraped the historical capacities of Rogers Centre and Progressive Field from 
 I analyzed the historic and current capacities to see which teams had a change, and researched what amd why they did.
 
 ### Skills and approaches I used, where I grew most during the project
-This was my first project where I tried web scraping and scrollytelling. Altogether more complicated than the last one, but I'm happy with the more complex skill set I used during this project.
+This was my first project where I tried web scraping and scrollytelling. I also used Flourish instead of Datawrapper, to make more complicated visuals. Altogether more complicated than the last one, but I'm happy with the more complex skill set I used during this project.
 
 ### Things I tried or wanted to do, but did not have the skills or time to
 I would've loved to look at more stadiums in depth or do an AI2HTML animated chart to show the change over time.
