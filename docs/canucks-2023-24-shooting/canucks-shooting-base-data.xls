@@ -1,0 +1,86 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+    
+    
+
+   
+   <thead>
+
+      
+      <tr class="over_header">
+         <th aria-label="" data-stat="" colspan="1" class=" over_header center"></th><th aria-label="" data-stat="" colspan="1" class=" over_header center"></th>
+         <th aria-label="" data-stat="header_scoring" colspan="1" class=" over_header center">Scor</th>
+         
+         <th></th><th></th>
+         
+         
+      </tr>
+            
+      <tr>
+         <th aria-label="Rk" data-stat="ranker" scope="col" class="ranker poptip sort_default_asc show_partial_when_sorting center" data-tip="Rank">Rk</th>
+         <th aria-label="Player" data-stat="player" scope="col" class=" poptip sort_default_asc left">Player</th>
+         
+         
+         
+         <th aria-label="G" data-stat="goals" scope="col" class=" poptip center" data-tip="Goals" data-over-header="Scoring">G</th>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         <th aria-label="S" data-stat="shots" scope="col" class=" poptip center" data-tip="Shots on Goal" data-over-header="Shots on Goal">S</th>
+         <th aria-label="S%" data-stat="shot_pct" scope="col" class=" poptip center" data-tip="Shooting Percentage">S%</th>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      </tr>
+      </thead>
+<tbody><tr data-row="0"><th scope="row" class="right " data-stat="ranker" csk="1">1</th><td class="left " data-append-csv="millejt01" data-stat="player" csk="Miller,J.T.">J.T. Miller</td><td class="right " data-stat="goals">37</td><td class="right " data-stat="shots">194</td><td class="right " data-stat="shot_pct">19.1</td></tr>
+<tr data-row="1"><th scope="row" class="right " data-stat="ranker" csk="2">2</th><td class="left " data-append-csv="hughequ01" data-stat="player" csk="Hughes,Quinn">Quinn Hughes</td><td class="right " data-stat="goals">17</td><td class="right " data-stat="shots">199</td><td class="right " data-stat="shot_pct">8.5</td></tr>
+<tr data-row="2"><th scope="row" class="right " data-stat="ranker" csk="3">3</th><td class="left " data-append-csv="petteel01" data-stat="player" csk="Pettersson,Elias">Elias Pettersson</td><td class="right " data-stat="goals">34</td><td class="right " data-stat="shots">207</td><td class="right " data-stat="shot_pct">16.4</td></tr>
+<tr data-row="3"><th scope="row" class="right " data-stat="ranker" csk="4">4</th><td class="left " data-append-csv="boesebr01" data-stat="player" csk="Boeser,Brock">Brock Boeser</td><td class="right " data-stat="goals">40</td><td class="right " data-stat="shots">204</td><td class="right " data-stat="shot_pct">19.6</td></tr>
+<tr data-row="4"><th scope="row" class="right " data-stat="ranker" csk="5">5</th><td class="left " data-append-csv="hronefi01" data-stat="player" csk="Hronek,Filip">Filip Hronek</td><td class="right " data-stat="goals">5</td><td class="right " data-stat="shots">148</td><td class="right " data-stat="shot_pct">3.4</td></tr>
+<tr data-row="5"><th scope="row" class="right " data-stat="ranker" csk="6">6</th><td class="left " data-append-csv="garlaco01" data-stat="player" csk="Garland,Conor">Conor Garland</td><td class="right " data-stat="goals">20</td><td class="right " data-stat="shots">200</td><td class="right " data-stat="shot_pct">10.0</td></tr>
+<tr data-row="6"><th scope="row" class="right " data-stat="ranker" csk="7">7</th><td class="left " data-append-csv="hoglani01" data-stat="player" csk="Höglander,Nils">Nils Höglander</td><td class="right " data-stat="goals">24</td><td class="right " data-stat="shots">120</td><td class="right " data-stat="shot_pct">20.0</td></tr>
+<tr data-row="7"><th scope="row" class="right " data-stat="ranker" csk="8">8</th><td class="left " data-append-csv="joshuda01" data-stat="player" csk="Joshua,Dakota">Dakota Joshua</td><td class="right " data-stat="goals">18</td><td class="right " data-stat="shots">84</td><td class="right " data-stat="shot_pct">21.4</td></tr>
+<tr data-row="8"><th scope="row" class="right " data-stat="ranker" csk="9">9</th><td class="left " data-append-csv="mikheil01" data-stat="player" csk="Mikheyev,Ilya">Ilya Mikheyev</td><td class="right " data-stat="goals">11</td><td class="right " data-stat="shots">147</td><td class="right " data-stat="shot_pct">7.5</td></tr>
+<tr data-row="9"><th scope="row" class="right " data-stat="ranker" csk="10">10</th><td class="left " data-append-csv="suterpi01" data-stat="player" csk="Suter,Pius">Pius Suter</td><td class="right " data-stat="goals">14</td><td class="right " data-stat="shots">105</td><td class="right " data-stat="shot_pct">13.3</td></tr>
+<tr data-row="10"><th scope="row" class="right " data-stat="ranker" csk="11">11</th><td class="left " data-append-csv="myersty01" data-stat="player" csk="Myers,Tyler">Tyler Myers</td><td class="right " data-stat="goals">5</td><td class="right " data-stat="shots">93</td><td class="right " data-stat="shot_pct">5.4</td></tr>
+<tr data-row="11"><th scope="row" class="right " data-stat="ranker" csk="12">12</th><td class="left " data-append-csv="bluegte01" data-stat="player" csk="Blueger,Teddy">Teddy Blueger</td><td class="right " data-stat="goals">6</td><td class="right " data-stat="shots">97</td><td class="right " data-stat="shot_pct">6.2</td></tr>
+<tr data-row="12"><th scope="row" class="right " data-stat="ranker" csk="13">13</th><td class="left " data-append-csv="laffesa01" data-stat="player" csk="Lafferty,Sam">Sam Lafferty</td><td class="right " data-stat="goals">13</td><td class="right " data-stat="shots">78</td><td class="right " data-stat="shot_pct">16.7</td></tr>
+<tr data-row="13"><th scope="row" class="right " data-stat="ranker" csk="14">14</th><td class="left " data-append-csv="kuzmean01" data-stat="player" csk="Kuzmenko,Andrei">Andrei Kuzmenko</td><td class="right " data-stat="goals">8</td><td class="right " data-stat="shots">63</td><td class="right " data-stat="shot_pct">12.7</td></tr>
+<tr data-row="14"><th scope="row" class="right " data-stat="ranker" csk="15">15</th><td class="left " data-append-csv="zadorni01" data-stat="player" csk="Zadorov,Nikita">Nikita Zadorov</td><td class="right " data-stat="goals">5</td><td class="right " data-stat="shots">61</td><td class="right " data-stat="shot_pct">8.2</td></tr>
+<tr data-row="15"><th scope="row" class="right " data-stat="ranker" csk="16">16</th><td class="left " data-append-csv="lindhel01" data-stat="player" csk="Lindholm,Elias">Elias Lindholm</td><td class="right " data-stat="goals">6</td><td class="right " data-stat="shots">42</td><td class="right " data-stat="shot_pct">14.3</td></tr>
+<tr data-row="16"><th scope="row" class="right " data-stat="ranker" csk="17">17</th><td class="left " data-append-csv="coleia01" data-stat="player" csk="Cole,Ian">Ian Cole</td><td class="right " data-stat="goals">2</td><td class="right " data-stat="shots">61</td><td class="right " data-stat="shot_pct">3.3</td></tr>
+<tr data-row="17"><th scope="row" class="right " data-stat="ranker" csk="18">18</th><td class="left " data-append-csv="digiuph01" data-stat="player" csk="Di Giuseppe,Phillip">Phillip Di Giuseppe</td><td class="right " data-stat="goals">5</td><td class="right " data-stat="shots">52</td><td class="right " data-stat="shot_pct">9.6</td></tr>
+<tr data-row="18"><th scope="row" class="right " data-stat="ranker" csk="19">19</th><td class="left " data-append-csv="beauvan01" data-stat="player" csk="Beauvillier,Anthony">Anthony Beauvillier</td><td class="right " data-stat="goals">2</td><td class="right " data-stat="shots">37</td><td class="right " data-stat="shot_pct">5.4</td></tr>
+<tr data-row="19"><th scope="row" class="right " data-stat="ranker" csk="20">20</th><td class="left " data-append-csv="amanni01" data-stat="player" csk="Åman,Nils">Nils Åman</td><td class="right " data-stat="goals">3</td><td class="right " data-stat="shots">28</td><td class="right " data-stat="shot_pct">10.7</td></tr>
+<tr data-row="20"><th scope="row" class="right " data-stat="ranker" csk="21">21</th><td class="left " data-append-csv="juulsno01" data-stat="player" csk="Juulsen,Noah">Noah Juulsen</td><td class="right " data-stat="goals">1</td><td class="right " data-stat="shots">30</td><td class="right " data-stat="shot_pct">3.3</td></tr>
+<tr data-row="21"><th scope="row" class="right " data-stat="ranker" csk="22">22</th><td class="left " data-append-csv="soucyca01" data-stat="player" csk="Soucy,Carson">Carson Soucy</td><td class="right " data-stat="goals">2</td><td class="right " data-stat="shots">29</td><td class="right " data-stat="shot_pct">6.9</td></tr>
+<tr data-row="22"><th scope="row" class="right " data-stat="ranker" csk="23">23</th><td class="left " data-append-csv="podkova01" data-stat="player" csk="Podkolzin,Vasily">Vasily Podkolzin</td><td class="right iz" data-stat="goals">0</td><td class="right " data-stat="shots">20</td><td class="right iz" data-stat="shot_pct">0.0</td></tr>
+<tr data-row="23"><th scope="row" class="right " data-stat="ranker" csk="24">24</th><td class="left " data-append-csv="studnja01" data-stat="player" csk="Studnicka,Jack">Jack Studnicka</td><td class="right " data-stat="goals">1</td><td class="right " data-stat="shots">4</td><td class="right " data-stat="shot_pct">25.0</td></tr>
+<tr data-row="24"><th scope="row" class="right " data-stat="ranker" csk="25">25</th><td class="left " data-append-csv="demkoth01" data-stat="player" csk="Demko,Thatcher">Thatcher Demko</td><td class="right iz" data-stat="goals">0</td><td class="right iz" data-stat="shots">0</td><td class="right iz" data-stat="shot_pct"></td></tr>
+<tr data-row="27"><th scope="row" class="right " data-stat="ranker" csk="26">26</th><td class="left " data-append-csv="desmica01" data-stat="player" csk="DeSmith,Casey">Casey DeSmith</td><td class="right iz" data-stat="goals">0</td><td class="right iz" data-stat="shots">0</td><td class="right iz" data-stat="shot_pct"></td></tr>
+<tr data-row="28"><th scope="row" class="right " data-stat="ranker" csk="27">27</th><td class="left " data-append-csv="friedma01" data-stat="player" csk="Friedman,Mark">Mark Friedman</td><td class="right iz" data-stat="goals">0</td><td class="right " data-stat="shots">16</td><td class="right iz" data-stat="shot_pct">0.0</td></tr>
+<tr data-row="29"><th scope="row" class="right " data-stat="ranker" csk="28">28</th><td class="left " data-append-csv="bainsar01" data-stat="player" csk="Bains,Arshdeep">Arshdeep Bains</td><td class="right iz" data-stat="goals">0</td><td class="right " data-stat="shots">4</td><td class="right iz" data-stat="shot_pct">0.0</td></tr>
+<tr data-row="30"><th scope="row" class="right " data-stat="ranker" csk="29">29</th><td class="left " data-append-csv="hirosak01" data-stat="player" csk="Hirose,Akito">Akito Hirose</td><td class="right iz" data-stat="goals">0</td><td class="right iz" data-stat="shots">0</td><td class="right iz" data-stat="shot_pct"></td></tr>
+<tr data-row="31"><th scope="row" class="right " data-stat="ranker" csk="30">30</th><td class="left " data-append-csv="karlsli01" data-stat="player" csk="Karlsson,Linus">Linus Karlsson</td><td class="right iz" data-stat="goals">0</td><td class="right " data-stat="shots">4</td><td class="right iz" data-stat="shot_pct">0.0</td></tr>
+<tr data-row="32"><th scope="row" class="right " data-stat="ranker" csk="31">31</th><td class="left " data-append-csv="mcwarco01" data-stat="player" csk="McWard,Cole">Cole McWard</td><td class="right iz" data-stat="goals">0</td><td class="right " data-stat="shots">1</td><td class="right iz" data-stat="shot_pct">0.0</td></tr>
+<tr data-row="33"><th scope="row" class="right " data-stat="ranker" csk="32">32</th><td class="left " data-append-csv="silovar01" data-stat="player" csk="Silovs,Arturs">Arturs Silovs</td><td class="right iz" data-stat="goals">0</td><td class="right iz" data-stat="shots">0</td><td class="right iz" data-stat="shot_pct"></td></tr>
+</tbody><tfoot><tr data-row="34"><th scope="row" class="right iz" data-stat="ranker"></th><td class="left " data-stat="player" csk="Åman,Nils">Team Total</td><td class="right " data-stat="goals">279</td><td class="right " data-stat="shots">2328</td><td class="right " data-stat="shot_pct">12.0</td></tr>
+
+   </tfoot>
+
+</table></body></html>
