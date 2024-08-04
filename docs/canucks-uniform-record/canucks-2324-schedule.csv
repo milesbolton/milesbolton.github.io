@@ -1,0 +1,83 @@
+GP,Date,,Opponent,GF,GA,,,W,L,OL,Streak,Att.,LOG,Jersey
+1,2023-10-11,,Edmonton Oilers,8,1,W,,1,0,0,W 1,18706,2:33,Home
+2,2023-10-14,@,Edmonton Oilers,4,3,W,,2,0,0,W 2,18347,2:30,Road
+3,2023-10-17,@,Philadelphia Flyers,0,2,L,,2,1,0,L 1,18883,2:28,Road
+4,2023-10-19,@,Tampa Bay Lightning,3,4,L,,2,2,0,L 2,19092,2:32,Road
+5,2023-10-21,@,Florida Panthers,5,3,W,,3,2,0,W 1,16991,2:24,Road
+6,2023-10-24,@,Nashville Predators,3,2,W,,4,2,0,W 2,17159,2:17,Road
+7,2023-10-27,,St. Louis Blues,5,0,W,,5,2,0,W 3,18548,2:23,Home
+8,2023-10-28,,New York Rangers,3,4,L,OT,5,2,1,L 1,18483,2:31,Home
+9,2023-10-31,,Nashville Predators,5,2,W,,6,2,1,W 1,18413,2:23,Skate
+10,2023-11-02,@,San Jose Sharks,10,1,W,,7,2,1,W 2,10719,2:32,Road
+11,2023-11-04,,Dallas Stars,2,0,W,,8,2,1,W 3,18895,2:25,Home
+12,2023-11-06,,Edmonton Oilers,6,2,W,,9,2,1,W 4,18857,2:44,Skate
+13,2023-11-09,@,Ottawa Senators,5,2,W,,10,2,1,W 5,16653,2:22,Road
+14,2023-11-11,@,Toronto Maple Leafs,2,5,L,,10,3,1,L 1,19107,2:26,Road
+15,2023-11-12,@,Montreal Canadiens,5,2,W,,11,3,1,W 1,21105,2:19,Road
+16,2023-11-15,,New York Islanders,4,3,W,OT,12,3,1,W 2,18972,2:42,Home
+17,2023-11-16,@,Calgary Flames,2,5,L,,12,4,1,L 1,17501,2:33,Road
+18,2023-11-18,,Seattle Kraken,3,4,L,,12,5,1,L 2,18857,2:28,Home
+19,2023-11-20,,San Jose Sharks,3,1,W,,13,5,1,W 1,18718,2:26,Skate
+20,2023-11-22,@,Colorado Avalanche,2,5,L,,13,6,1,L 1,18133,2:32,Road
+21,2023-11-24,@,Seattle Kraken,5,1,W,,14,6,1,W 1,17151,2:31,Road
+22,2023-11-25,@,San Jose Sharks,3,4,L,,14,7,1,L 1,15538,2:36,Road
+23,2023-11-28,,Anaheim Ducks,3,1,W,,15,7,1,W 1,18639,2:21,Skate
+24,2023-11-30,,Vegas Golden Knights,1,4,L,,15,8,1,L 1,18856,2:19,Home
+25,2023-12-02,@,Calgary Flames,4,3,W,,16,8,1,W 1,19079,2:29,Road
+26,2023-12-05,,New Jersey Devils,5,6,L,,16,9,1,L 1,18983,2:30,Skate
+27,2023-12-07,,Minnesota Wild,2,0,W,,17,9,1,W 1,18667,2:41,Skate
+28,2023-12-09,,Carolina Hurricanes,4,3,W,,18,9,1,W 2,18586,2:31,Home
+29,2023-12-12,,Tampa Bay Lightning,4,1,W,,19,9,1,W 3,18771,2:22,Skate
+30,2023-12-14,,Florida Panthers,4,0,W,,20,9,1,W 4,18873,2:19,Home
+31,2023-12-16,@,Minnesota Wild,1,2,L,SO,20,9,2,L 1,18519,2:39,Road
+32,2023-12-17,@,Chicago Blackhawks,4,3,W,,21,9,2,W 1,19302,2:19,Road
+33,2023-12-19,@,Nashville Predators,5,2,W,,22,9,2,W 2,17159,2:22,Road
+34,2023-12-21,@,Dallas Stars,3,4,L,OT,22,9,3,L 1,18532,2:32,Road
+35,2023-12-23,,San Jose Sharks,7,4,W,,23,9,3,W 1,18875,2:32,Skate
+36,2023-12-28,,Philadelphia Flyers,1,4,L,,23,10,3,L 1,18986,2:27,Home
+37,2024-01-02,,Ottawa Senators,6,3,W,,24,10,3,W 1,18810,2:22,Home
+38,2024-01-04,@,St. Louis Blues,1,2,L,,24,11,3,L 1,18096,2:23,Road
+39,2024-01-06,@,New Jersey Devils,6,4,W,,25,11,3,W 1,16157,2:36,Road
+40,2024-01-08,@,New York Rangers,6,3,W,,26,11,3,W 2,18006,2:28,Road
+41,2024-01-09,@,New York Islanders,5,2,W,,27,11,3,W 3,15690,2:20,Road
+42,2024-01-11,@,Pittsburgh Penguins,4,3,W,OT,28,11,3,W 4,18190,2:32,Road
+43,2024-01-13,@,Buffalo Sabres,1,0,W,,29,11,3,W 5,17662,2:35,Road
+44,2024-01-15,@,Columbus Blue Jackets,3,4,L,SO,29,11,4,L 1,17622,2:31,Road
+45,2024-01-18,,Arizona Coyotes,2,1,W,,30,11,4,W 1,19005,2:30,Home
+46,2024-01-20,,Toronto Maple Leafs,6,4,W,,31,11,4,W 2,18865,2:33,Skate
+47,2024-01-22,,Chicago Blackhawks,2,0,W,,32,11,4,W 3,18714,2:12,Skate
+48,2024-01-24,,St. Louis Blues,3,4,L,OT,32,11,5,L 1,19003,2:26,Home
+49,2024-01-27,,Columbus Blue Jackets,5,4,W,OT,33,11,5,W 1,19002,2:44,Skate
+50,2024-02-06,@,Carolina Hurricanes,3,2,W,,34,11,5,W 2,18700,2:22,Road
+51,2024-02-08,@,Boston Bruins,0,4,L,,34,12,5,L 1,17850,2:26,Road
+52,2024-02-10,@,Detroit Red Wings,3,4,L,OT,34,12,6,L 2,19515,2:35,Road
+53,2024-02-11,@,Washington Capitals,3,2,W,OT,35,12,6,W 1,18573,2:27,Road
+54,2024-02-13,@,Chicago Blackhawks,4,2,W,,36,12,6,W 2,16452,2:22,Road
+55,2024-02-15,,Detroit Red Wings,4,1,W,,37,12,6,W 3,18947,2:25,Skate
+56,2024-02-17,,Winnipeg Jets,2,4,L,,37,13,6,L 1,18992,2:30,Home
+57,2024-02-19,@,Minnesota Wild,7,10,L,,37,14,6,L 2,19024,2:37,Road
+58,2024-02-20,@,Colorado Avalanche,1,3,L,,37,15,6,L 3,18121,2:28,Road
+59,2024-02-22,@,Seattle Kraken,2,5,L,,37,16,6,L 4,17151,2:27,Road
+60,2024-02-24,,Boston Bruins,3,2,W,OT,38,16,6,W 1,18924,2:44,Home
+61,2024-02-27,,Pittsburgh Penguins,3,4,L,OT,38,16,7,L 1,18730,2:31,Home
+62,2024-02-29,,Los Angeles Kings,1,5,L,,38,17,7,L 2,18801,2:22,Skate
+63,2024-03-03,@,Anaheim Ducks,2,1,W,,39,17,7,W 1,15161,2:18,Road
+64,2024-03-05,@,Los Angeles Kings,2,1,W,OT,40,17,7,W 2,18145,2:31,Road
+65,2024-03-07,@,Vegas Golden Knights,3,1,W,,41,17,7,W 3,18054,2:32,Road
+66,2024-03-09,,Winnipeg Jets,5,0,W,,42,17,7,W 4,18954,2:21,Home
+67,2024-03-13,,Colorado Avalanche,3,4,L,OT,42,17,8,L 1,18880,2:27,Home
+68,2024-03-16,,Washington Capitals,1,2,L,,42,18,8,L 2,18859,2:22,Home
+69,2024-03-19,,Buffalo Sabres,3,2,W,,43,18,8,W 1,18733,2:30,Skate
+70,2024-03-21,,Montreal Canadiens,4,1,W,,44,18,8,W 2,18804,2:22,Home
+71,2024-03-23,,Calgary Flames,4,2,W,,45,18,8,W 3,18903,2:24,Home
+72,2024-03-25,,Los Angeles Kings,2,3,L,,45,19,8,L 1,18870,2:24,Skate
+73,2024-03-28,,Dallas Stars,1,3,L,,45,20,8,L 2,18987,2:29,Skate
+74,2024-03-31,,Anaheim Ducks,3,2,W,,46,20,8,W 1,18735,2:29,Home
+75,2024-04-02,@,Vegas Golden Knights,3,6,L,,46,21,8,L 1,18366,2:35,Road
+76,2024-04-03,@,Arizona Coyotes,2,1,W,,47,21,8,W 1,4600,2:32,Road
+77,2024-04-06,@,Los Angeles Kings,3,6,L,,47,22,8,L 1,18190,2:26,Road
+78,2024-04-08,,Vegas Golden Knights,4,3,W,,48,22,8,W 1,18899,2:28,Home
+79,2024-04-10,,Arizona Coyotes,3,4,L,OT,48,22,9,L 1,18856,2:39,Skate
+80,2024-04-13,@,Edmonton Oilers,3,1,W,,49,22,9,W 1,18347,2:26,Road
+81,2024-04-16,,Calgary Flames,4,1,W,,50,22,9,W 2,18918,2:30,Home
+82,2024-04-18,@,Winnipeg Jets,2,4,L,,50,23,9,L 1,15225,2:19,Road
