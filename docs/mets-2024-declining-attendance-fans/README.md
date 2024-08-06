@@ -1,4 +1,4 @@
-<a href="https://milesbolton.github.io/lede-project-1/mets-2024-attendance-fans.html">CLICK HERE TO READ MY PROJECT!</a>
+<a href="https://milesbolton.github.io/mets-2024-declining-attendance-fans/">CLICK HERE TO READ MY PROJECT!</a>
 
 # Analyzing New York Mets' attendance
 ### What I aimed to accomplish
