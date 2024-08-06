@@ -1,83 +1,83 @@
-,Date,location,Opponent,GF,GA,result,Jersey
-0,2023-10-11,vs,Edmonton Oilers,8,1,W,Home
-1,2023-10-14,@,Edmonton Oilers,4,3,W,Road
-2,2023-10-17,@,Philadelphia Flyers,0,2,L,Road
-3,2023-10-19,@,Tampa Bay Lightning,3,4,L,Road
-4,2023-10-21,@,Florida Panthers,5,3,W,Road
-5,2023-10-24,@,Nashville Predators,3,2,W,Road
-6,2023-10-27,vs,St. Louis Blues,5,0,W,Home
-7,2023-10-28,vs,New York Rangers,3,4,OT,Home
-8,2023-10-31,vs,Nashville Predators,5,2,W,Skate
-9,2023-11-02,@,San Jose Sharks,10,1,W,Road
-10,2023-11-04,vs,Dallas Stars,2,0,W,Home
-11,2023-11-06,vs,Edmonton Oilers,6,2,W,Skate
-12,2023-11-09,@,Ottawa Senators,5,2,W,Road
-13,2023-11-11,@,Toronto Maple Leafs,2,5,L,Road
-14,2023-11-12,@,Montreal Canadiens,5,2,W,Road
-15,2023-11-15,vs,New York Islanders,4,3,W,Home
-16,2023-11-16,@,Calgary Flames,2,5,L,Road
-17,2023-11-18,vs,Seattle Kraken,3,4,L,Home
-18,2023-11-20,vs,San Jose Sharks,3,1,W,Skate
-19,2023-11-22,@,Colorado Avalanche,2,5,L,Road
-20,2023-11-24,@,Seattle Kraken,5,1,W,Road
-21,2023-11-25,@,San Jose Sharks,3,4,L,Road
-22,2023-11-28,vs,Anaheim Ducks,3,1,W,Skate
-23,2023-11-30,vs,Vegas Golden Knights,1,4,L,Home
-24,2023-12-02,@,Calgary Flames,4,3,W,Road
-25,2023-12-05,vs,New Jersey Devils,5,6,L,Skate
-26,2023-12-07,vs,Minnesota Wild,2,0,W,Skate
-27,2023-12-09,vs,Carolina Hurricanes,4,3,W,Home
-28,2023-12-12,vs,Tampa Bay Lightning,4,1,W,Skate
-29,2023-12-14,vs,Florida Panthers,4,0,W,Home
-30,2023-12-16,@,Minnesota Wild,1,2,OT,Road
-31,2023-12-17,@,Chicago Blackhawks,4,3,W,Road
-32,2023-12-19,@,Nashville Predators,5,2,W,Road
-33,2023-12-21,@,Dallas Stars,3,4,OT,Road
-34,2023-12-23,vs,San Jose Sharks,7,4,W,Skate
-35,2023-12-28,vs,Philadelphia Flyers,1,4,L,Home
-36,2024-01-02,vs,Ottawa Senators,6,3,W,Home
-37,2024-01-04,@,St. Louis Blues,1,2,L,Road
-38,2024-01-06,@,New Jersey Devils,6,4,W,Road
-39,2024-01-08,@,New York Rangers,6,3,W,Road
-40,2024-01-09,@,New York Islanders,5,2,W,Road
-41,2024-01-11,@,Pittsburgh Penguins,4,3,W,Road
-42,2024-01-13,@,Buffalo Sabres,1,0,W,Road
-43,2024-01-15,@,Columbus Blue Jackets,3,4,OT,Road
-44,2024-01-18,vs,Arizona Coyotes,2,1,W,Home
-45,2024-01-20,vs,Toronto Maple Leafs,6,4,W,Skate
-46,2024-01-22,vs,Chicago Blackhawks,2,0,W,Skate
-47,2024-01-24,vs,St. Louis Blues,3,4,OT,Home
-48,2024-01-27,vs,Columbus Blue Jackets,5,4,W,Skate
-49,2024-02-06,@,Carolina Hurricanes,3,2,W,Road
-50,2024-02-08,@,Boston Bruins,0,4,L,Road
-51,2024-02-10,@,Detroit Red Wings,3,4,OT,Road
-52,2024-02-11,@,Washington Capitals,3,2,W,Road
-53,2024-02-13,@,Chicago Blackhawks,4,2,W,Road
-54,2024-02-15,vs,Detroit Red Wings,4,1,W,Skate
-55,2024-02-17,vs,Winnipeg Jets,2,4,L,Home
-56,2024-02-19,@,Minnesota Wild,7,10,L,Road
-57,2024-02-20,@,Colorado Avalanche,1,3,L,Road
-58,2024-02-22,@,Seattle Kraken,2,5,L,Road
-59,2024-02-24,vs,Boston Bruins,3,2,W,Home
-60,2024-02-27,vs,Pittsburgh Penguins,3,4,OT,Home
-61,2024-02-29,vs,Los Angeles Kings,1,5,L,Skate
-62,2024-03-03,@,Anaheim Ducks,2,1,W,Road
-63,2024-03-05,@,Los Angeles Kings,2,1,W,Road
-64,2024-03-07,@,Vegas Golden Knights,3,1,W,Road
-65,2024-03-09,vs,Winnipeg Jets,5,0,W,Home
-66,2024-03-13,vs,Colorado Avalanche,3,4,OT,Home
-67,2024-03-16,vs,Washington Capitals,1,2,L,Home
-68,2024-03-19,vs,Buffalo Sabres,3,2,W,Skate
-69,2024-03-21,vs,Montreal Canadiens,4,1,W,Home
-70,2024-03-23,vs,Calgary Flames,4,2,W,Home
-71,2024-03-25,vs,Los Angeles Kings,2,3,L,Skate
-72,2024-03-28,vs,Dallas Stars,1,3,L,Skate
-73,2024-03-31,vs,Anaheim Ducks,3,2,W,Home
-74,2024-04-02,@,Vegas Golden Knights,3,6,L,Road
-75,2024-04-03,@,Arizona Coyotes,2,1,W,Road
-76,2024-04-06,@,Los Angeles Kings,3,6,L,Road
-77,2024-04-08,vs,Vegas Golden Knights,4,3,W,Home
-78,2024-04-10,vs,Arizona Coyotes,3,4,OT,Skate
-79,2024-04-13,@,Edmonton Oilers,3,1,W,Road
-80,2024-04-16,vs,Calgary Flames,4,1,W,Home
-81,2024-04-18,@,Winnipeg Jets,2,4,L,Road
+,Date,location,Opponent,GF,GA,result,van_rank,opp_rank,Jersey
+0,2023-10-11,vs,Edmonton Oilers,8,1,W,1,32,Home
+1,2023-10-14,@,Edmonton Oilers,4,3,W,2,32,Road
+2,2023-10-17,@,Philadelphia Flyers,0,2,L,6,12,Road
+3,2023-10-19,@,Tampa Bay Lightning,3,4,L,13,11,Road
+4,2023-10-21,@,Florida Panthers,5,3,W,7,24,Road
+5,2023-10-24,@,Nashville Predators,3,2,W,6,20,Road
+6,2023-10-27,vs,St. Louis Blues,5,0,W,5,19,Home
+7,2023-10-28,vs,New York Rangers,3,4,OT,5,4,Home
+8,2023-10-31,vs,Nashville Predators,5,2,W,4,23,Skate
+9,2023-11-02,@,San Jose Sharks,10,1,W,5,32,Road
+10,2023-11-04,vs,Dallas Stars,2,0,W,3,6,Home
+11,2023-11-06,vs,Edmonton Oilers,6,2,W,3,31,Skate
+12,2023-11-09,@,Ottawa Senators,5,2,W,3,27,Road
+13,2023-11-11,@,Toronto Maple Leafs,2,5,L,4,9,Road
+14,2023-11-12,@,Montreal Canadiens,5,2,W,4,16,Road
+15,2023-11-15,vs,New York Islanders,4,3,W,2,23,Home
+16,2023-11-16,@,Calgary Flames,2,5,L,3,26,Road
+17,2023-11-18,vs,Seattle Kraken,3,4,L,4,18,Home
+18,2023-11-20,vs,San Jose Sharks,3,1,W,3,32,Skate
+19,2023-11-22,@,Colorado Avalanche,2,5,L,4,8,Road
+20,2023-11-24,@,Seattle Kraken,5,1,W,4,18,Road
+21,2023-11-25,@,San Jose Sharks,3,4,L,5,32,Road
+22,2023-11-28,vs,Anaheim Ducks,3,1,W,4,26,Skate
+23,2023-11-30,vs,Vegas Golden Knights,1,4,L,5,1,Home
+24,2023-12-02,@,Calgary Flames,4,3,W,4,21,Road
+25,2023-12-05,vs,New Jersey Devils,5,6,L,6,20,Skate
+26,2023-12-07,vs,Minnesota Wild,2,0,W,5,25,Skate
+27,2023-12-09,vs,Carolina Hurricanes,4,3,W,4,17,Home
+28,2023-12-12,vs,Tampa Bay Lightning,4,1,W,4,17,Skate
+29,2023-12-14,vs,Florida Panthers,4,0,W,2,9,Home
+30,2023-12-16,@,Minnesota Wild,1,2,OT,4,25,Road
+31,2023-12-17,@,Chicago Blackhawks,4,3,W,2,32,Road
+32,2023-12-19,@,Nashville Predators,5,2,W,2,14,Road
+33,2023-12-21,@,Dallas Stars,3,4,OT,1,5,Road
+34,2023-12-23,vs,San Jose Sharks,7,4,W,1,32,Skate
+35,2023-12-28,vs,Philadelphia Flyers,1,4,L,2,10,Home
+36,2024-01-02,vs,Ottawa Senators,6,3,W,3,29,Home
+37,2024-01-04,@,St. Louis Blues,1,2,L,5,23,Road
+38,2024-01-06,@,New Jersey Devils,6,4,W,4,15,Road
+39,2024-01-08,@,New York Rangers,6,3,W,3,5,Road
+40,2024-01-09,@,New York Islanders,5,2,W,2,13,Road
+41,2024-01-11,@,Pittsburgh Penguins,4,3,W,2,17,Road
+42,2024-01-13,@,Buffalo Sabres,1,0,W,1,26,Road
+43,2024-01-15,@,Columbus Blue Jackets,3,4,OT,1,28,Road
+44,2024-01-18,vs,Arizona Coyotes,2,1,W,1,23,Home
+45,2024-01-20,vs,Toronto Maple Leafs,6,4,W,1,14,Skate
+46,2024-01-22,vs,Chicago Blackhawks,2,0,W,1,31,Skate
+47,2024-01-24,vs,St. Louis Blues,3,4,OT,1,19,Home
+48,2024-01-27,vs,Columbus Blue Jackets,5,4,W,1,28,Skate
+49,2024-02-06,@,Carolina Hurricanes,3,2,W,1,9,Road
+50,2024-02-08,@,Boston Bruins,0,4,L,1,2,Road
+51,2024-02-10,@,Detroit Red Wings,3,4,OT,1,14,Road
+52,2024-02-11,@,Washington Capitals,3,2,W,1,21,Road
+53,2024-02-13,@,Chicago Blackhawks,4,2,W,1,32,Road
+54,2024-02-15,vs,Detroit Red Wings,4,1,W,1,16,Skate
+55,2024-02-17,vs,Winnipeg Jets,2,4,L,1,6,Home
+56,2024-02-19,@,Minnesota Wild,7,10,L,1,20,Road
+57,2024-02-20,@,Colorado Avalanche,1,3,L,1,6,Road
+58,2024-02-22,@,Seattle Kraken,2,5,L,2,21,Road
+59,2024-02-24,vs,Boston Bruins,3,2,W,1,3,Home
+60,2024-02-27,vs,Pittsburgh Penguins,3,4,OT,1,20,Home
+61,2024-02-29,vs,Los Angeles Kings,1,5,L,4,13,Skate
+62,2024-03-03,@,Anaheim Ducks,2,1,W,2,30,Road
+63,2024-03-05,@,Los Angeles Kings,2,1,W,2,11,Road
+64,2024-03-07,@,Vegas Golden Knights,3,1,W,2,14,Road
+65,2024-03-09,vs,Winnipeg Jets,5,0,W,2,6,Home
+66,2024-03-13,vs,Colorado Avalanche,3,4,OT,2,5,Home
+67,2024-03-16,vs,Washington Capitals,1,2,L,4,18,Home
+68,2024-03-19,vs,Buffalo Sabres,3,2,W,4,22,Skate
+69,2024-03-21,vs,Montreal Canadiens,4,1,W,3,26,Home
+70,2024-03-23,vs,Calgary Flames,4,2,W,1,22,Home
+71,2024-03-25,vs,Los Angeles Kings,2,3,L,2,12,Skate
+72,2024-03-28,vs,Dallas Stars,1,3,L,5,2,Skate
+73,2024-03-31,vs,Anaheim Ducks,3,2,W,5,30,Home
+74,2024-04-02,@,Vegas Golden Knights,3,6,L,5,11,Road
+75,2024-04-03,@,Arizona Coyotes,2,1,W,4,28,Road
+76,2024-04-06,@,Los Angeles Kings,3,6,L,5,12,Road
+77,2024-04-08,vs,Vegas Golden Knights,4,3,W,5,14,Home
+78,2024-04-10,vs,Arizona Coyotes,3,4,OT,5,26,Skate
+79,2024-04-13,@,Edmonton Oilers,3,1,W,6,9,Road
+80,2024-04-16,vs,Calgary Flames,4,1,W,5,24,Home
+81,2024-04-18,@,Winnipeg Jets,2,4,L,6,4,Road
