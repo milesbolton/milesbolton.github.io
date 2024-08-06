@@ -2,6 +2,11 @@
 
 # Analyzing the trend of smaller stadiums across Major League Baseball
 ### What I aimed to accomplish
+In March, about a week after I got into the Lede Program, I tried to write an article on this topic for <i>The Canuck Way.</i> 
+
+It was terrible. It was my first data article. I couldn't get my visualizations to work so I just threw all of my numbers into tables. It was also done before the end of the regular season, meaning that my analysis was missing a few weeks' worth of games.
+
+This isn't a masterpiece, but it's a much better, re-done analysis of the Vancouver Canucks' complete 2023-24 uniform record.
 
 ### Description of my findings
 
