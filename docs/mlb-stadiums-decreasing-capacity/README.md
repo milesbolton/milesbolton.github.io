@@ -1,4 +1,4 @@
-<a href="https://milesbolton.github.io/lede-project-2/mlb-stadiums-capacity.html">CLICK HERE TO READ MY PROJECT!</a>
+<a href="https://milesbolton.github.io/mlb-stadiums-decreasing-capacity/">CLICK HERE TO READ MY PROJECT!</a>
 
 # Analyzing the trend of smaller stadiums across Major League Baseball
 ### What I aimed to accomplish
