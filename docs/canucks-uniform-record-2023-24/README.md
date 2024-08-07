@@ -1,4 +1,4 @@
-<a href="INSERT LINK HERE">CLICK HERE TO READ MY PROJECT!</a>
+<a href="https://milesbolton.github.io/canucks-uniform-record-2023-24/">CLICK HERE TO READ MY PROJECT!</a>
 
 # Analyzing the trend of smaller stadiums across Major League Baseball
 ### What I aimed to accomplish
