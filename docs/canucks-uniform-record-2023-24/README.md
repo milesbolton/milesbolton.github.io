@@ -27,4 +27,4 @@ See above for details.
 I continue to feel more comfortable and confident using Pandas and HTML. I think I've grown a lot in working with data sets and analyzing them in Pandas over the summer. There's still way more I can learn, but I'm happy with what I've accomplished so far.
 
 ### Things I tried or wanted to do, but did not have the skills or time to
-I really wanted to do something with ai2html or interactive scrollytelling, but that was way too ambitious given the timeframe I had to finish this project.
+I really wanted to do something with ai2html or interactive scrollytelling, but that was way too ambitious given the timeframe I had to finish this project. I've kept my failed ai2html files in a folder here.
